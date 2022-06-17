@@ -1,0 +1,18 @@
+.title{
+    display: flex;
+    background-color: rgb(43, 168, 226);
+    padding-left: 100px;
+}
+
+.search-column{
+    background-color:	#D3D3D3;
+}
+
+.card-body{
+    flex:auto
+}
+
+.list-group-item{
+    line-height: 0.5;
+    border: none;
+}
